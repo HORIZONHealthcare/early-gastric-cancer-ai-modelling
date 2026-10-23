@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" role="img" aria-labelledby="title description">
   <title id="title">Early gastric cancer artificial intelligence modelling workflow</title>
-  <desc id="description">Controlled clinical data and endoscopic images feed four model families. Their outputs are evaluated for lymph node metastasis and invasion-depth prediction.</desc>
+  <desc id="description">Controlled clinical data and endoscopic images feed four model families. Their outputs are evaluated for lymph node metastasis and invasion depth prediction.</desc>
   <!-- Version 4: modelling tasks only, with balanced outer margins and larger type. -->
 
   <defs>
@@ -111,7 +111,7 @@
 
   <rect class="node" x="910" y="340" width="260" height="90" rx="18" fill="#C2415A" stroke="#881337" stroke-width="2"/>
   <text class="box-label" x="1040" y="376">
-    <tspan x="1040" dy="0">Invasion-depth</tspan>
+    <tspan x="1040" dy="0">Invasion depth</tspan>
     <tspan x="1040" dy="27">prediction</tspan>
   </text>
 </svg>
