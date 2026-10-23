@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript when using this software. Publication metadata will be updated after publication."
+title: "Clinicopathological heterogeneity, treatment patterns, and AI predictive modelling on early gastric cancer across six longitudinal cohorts"
+type: software
+license: CC-BY-NC-4.0
+authors:
+  - family-names: Chen
+    given-names: Ruinian
+  - family-names: Sun
+    given-names: Jiachen
+  - family-names: Lin
+    given-names: Yiqun
+  - family-names: Cheng
+    given-names: Zijie
+  - family-names: Li
+    given-names: Boxuan
+  - family-names: Wang
+    given-names: Weiru
+  - family-names: Lan
+    given-names: Sihua
+  - family-names: Li
+    given-names: Yimin
+  - family-names: Bao
+    given-names: Chongju
+  - family-names: Yang
+    given-names: Genyuan
+  - family-names: Wang
+    given-names: Hongcai
+  - family-names: Zhao
+    given-names: Shengqiang
+  - family-names: Er
+    given-names: Limian
+  - family-names: Zhou
+    given-names: Yukun
+  - family-names: Lu
+    given-names: Yi
+keywords:
+  - early gastric cancer
+  - lymph node metastasis
+  - invasion depth
+  - multimodal artificial intelligence
+  - vision-language models
+abstract: >-
+  Research code for logistic regression, LightGBM, task-specific deep learning,
+  and vision-language model benchmarking for lymph node metastasis and
+  invasion-depth prediction in early gastric cancer.
